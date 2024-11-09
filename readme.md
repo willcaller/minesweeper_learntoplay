@@ -1,4 +1,10 @@
 # Minesweeper
+Clone of @nickarocho's Minesweeper project for Artificial Intelligence Theory & Programming course.
+
+TODO: Implement an AI that learns to play Minesweeper by using one of the methods talked about in class.
+
+
+# Minesweeper
 
 Minesweeper... yep, that old classic game you remember playing on good ol' Windows '95 back in the day (in fact it was implemented in Microsoft's software updates until Windows 8). Minesweeper has its origins in the earliest mainframe games of the 1960s and 1970s. The earliest ancestor of Minesweeper was Jerimac Ratliff's Cube. The basic gameplay style became a popular segment of the puzzle game genre during the 1980s.
 
