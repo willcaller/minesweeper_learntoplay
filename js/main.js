@@ -20,7 +20,7 @@ var colors = [
 ];
 
 /*----- app's state (variables) -----*/
-var size = 16;
+var size = 9;
 var board;
 var bombCount;
 var timeElapsed;
@@ -106,6 +106,7 @@ function buildTable() {
           <section id="status-bar">
             <div id="bomb-counter">000</div>
             <div id="reset"><img src="images/smiley-face.png"></div>
+            <div id="ai-btn"><img src="images/robot.png"></div>
             <div id="timer">000</div>
           </section>
       </td>

@@ -114,6 +114,17 @@ button:hover {
     border-left: 2px solid #ffffff;
 }
 
+#ai-btn {
+    text-align: center;
+    width: 35px;
+    height: 35px;
+    border-top: 2px solid #ffffff;
+    border-right: 2px solid #7B7B7B;
+    border-bottom: 2px solid #7B7B7B;
+    border-left: 2px solid #ffffff;
+    cursor: pointer;
+}
+
 .revealed {
     font-family: "Press Start";
     background-color: #C0C0C0;
